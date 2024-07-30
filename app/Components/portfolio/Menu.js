@@ -1,3 +1,5 @@
+// Images should be the size of the screen.
+
 const Menu =[
   {
     id:1,
