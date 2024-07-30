@@ -17,7 +17,7 @@ const Portfolio = () => {
   }
   return (
     <section className='work container section' id='work'>
-      <h2 className='section__title'>Projects</h2>
+      <h2 className='section__title'>Some of my projects</h2>
 
       <div className='work__container grid'>
 
