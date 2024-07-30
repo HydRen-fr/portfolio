@@ -9,7 +9,7 @@ const Home = () => {
   return (
    <section className='home container' id='home'>
    <div className='intro'>
-    <img src= "/public/profile-pic.png" alt='' className='home__img'/>
+    <img src={"/static/images/profile-pic.png"} alt='' className='home__img'/>
     <h1 className='home__name'>Helios Bringuet</h1>
     <span className='home__education'>
     I am a student at EPITA Paris.
