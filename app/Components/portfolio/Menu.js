@@ -1,22 +1,21 @@
-
 const Menu =[
   {
     id:1,
-    Image: "/static/images/undistract.png",
-    title:"Undistract add-on",
-    category: "Firefox add-on"
+    Image: "/static/images/tripy.png",
+    title:"TriPy",
+    category: "Flask Visualizer"
   },
   {
     id:2,
-    Image: "/static/images/epydemie.png",
-    title:"Epydemie",
-    category: "Simulator"
+    Image: "/static/images/flora.png",
+    title:"Flora",
+    category: "React Flashcards"
   },
   {
     id:3,
-    Image: "/static/images/flora.png",
-    title:"Flora",
-    category: "React website"
+    Image: "/static/images/dietetx.png",
+    title:"DietetX",
+    category: "Natural Language Processing"
   },
 ]
 export default Menu
