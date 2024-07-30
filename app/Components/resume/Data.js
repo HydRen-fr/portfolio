@@ -17,5 +17,21 @@ const Data =[
         title:"CS Engineering School - EPITA Paris",
         desc:"",
     },
+    {
+        id:3,
+        category:"experience",
+        icon:"icon-briefcase",
+        year: "2021",
+        title:"Pentest Internship at Leboncoin",
+        desc:"",
+    },
+    {
+        id:4,
+        category:"experience",
+        icon:"icon-briefcase",
+        year: "2021",
+        title:"Paris 1 Sorbonne Digital Security Team Internship",
+        desc:"",
+    },
 ];
 export default Data
