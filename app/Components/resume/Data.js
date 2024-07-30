@@ -21,7 +21,7 @@ const Data =[
         id:3,
         category:"experience",
         icon:"icon-briefcase",
-        year: "2021",
+        year: "2020",
         title:"Pentest Internship at Leboncoin",
         desc:"",
     },
