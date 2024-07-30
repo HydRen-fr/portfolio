@@ -22,7 +22,8 @@
     margin-bottom: 0.5rem;
 }
 .home__socials {
-    display: center;
+    display: flex;
+    justify-content: center;
     column-gap: 1.75rem;
     margin: 1.5rem 0;
 }
