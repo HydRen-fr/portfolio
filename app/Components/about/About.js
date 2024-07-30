@@ -10,7 +10,7 @@ const About = () => {
       </h2>
 
     <div className='about__container grid'>
-    <img src= "/public/profile-pic.png" alt='' className='about__img'/>
+    <img src={"/static/images/profile-pic.png"} alt='' className='about__img'/>
 
     <div className='about__data grid'>
       <div className='about__info'>
