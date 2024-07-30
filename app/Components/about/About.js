@@ -15,7 +15,7 @@ const About = () => {
     <div className='about__data grid'>
       <div className='about__info'>
         <p className='about__description'>
-        I am eager to pursue a dynamic career, leveraging my skills in challenging and innovative projects. I chose to study at EPITA Paris beacause I knew it was the most challenging computer science schooling in France.
+        I am eager to pursue a dynamic career, leveraging my skills in challenging and innovative projects. I chose to study at EPITA Paris because I knew it was the most challenging computer science schooling in France.
         </p>
       </div>
 
