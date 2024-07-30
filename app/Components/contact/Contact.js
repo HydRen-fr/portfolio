@@ -10,7 +10,7 @@ const Contact = () => {
           <h3 className='contact__title'> Let's talk!</h3>
         </div>
 
-        <form action='' className='contact__form'>
+        <form action="mailto:hbringuet@numericable.fr" method="post" enctype="text/plain" className='contact__form'>
           <div className='contact__form-group'>
             <div className='contact__form-div'>
               <input type='text' className='contact__form-input' placeholder='Your name'/>
